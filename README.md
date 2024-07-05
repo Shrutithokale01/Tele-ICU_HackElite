@@ -76,9 +76,9 @@ pip install numpy
 ## Working of GUI
 
 1. User will run the code
-2. [GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/assets/127434668/7998da39-f8f1-4bd3-b478-68d78cd27393)
+2. [GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/GUI.png)
 
-![Alt Text](path/to/your/image.png)
+![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/GUI.png)
 
 
 
