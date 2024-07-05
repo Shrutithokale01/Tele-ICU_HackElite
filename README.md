@@ -89,7 +89,7 @@ pip install numpy
 
 | video link      | Code for the 3 models            | Description                                       |
 |:---------------:|:--------------------------------:|:------------------------------------------------:|
-| link            | [3 model integrated + GUI.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/3%20model%20integrated%20%2B%20GUI.py).        | Development environments for coding, testing, and debugging. |
+| link            | [3 model integrated + GUI.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/3%20model%20integrated%20%2B%20GUI.py).  | Development environments for coding, testing, and debugging. |
 | Libraries       | OpenCV                           | Open-source computer vision and machine learning software library. |
 |                 | MediaPipe                        | Cross-platform framework for building multimodal applied machine learning pipelines. |
 |                 | NumPy                            | Library for adding support for large, multi-dimensional arrays and matrices. |
