@@ -73,5 +73,5 @@ pip install numpy
 4. Adjust the path of 'Output folder'.
 5. Adjust the path of sound file 'Audio.mp3' provided.
 
-[Link Text](path/to/your/script.py)
+[3 model integrated + GUI.py]()
 
