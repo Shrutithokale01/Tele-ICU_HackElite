@@ -79,6 +79,7 @@ pip install numpy
 2. GUI pops up
    
 ![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/GUI.png)
+
 3. Select the video path using the upload button.
 4. Select the Output folder to save the detected frames using the process button.
 5. The detection will start by running the video and the detected frames will be saved in the output folder.
