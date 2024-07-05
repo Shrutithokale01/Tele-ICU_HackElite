@@ -84,8 +84,10 @@ pip install numpy
 4. Select the Output folder to save the detected frames using the process button.
 5. The detection will start by running the video and the detected frames will be saved in the output folder.
 
+## Individual  working of 3 models
 
-| Category        | Tool/Technology                  | Description                                       |
+
+| video link      | Tool/Technology                  | Description                                       |
 |:---------------:|:--------------------------------:|:------------------------------------------------:|
 | IDE             | PyCharm, Jupyter Notebook        | Development environments for coding, testing, and debugging. |
 | Libraries       | OpenCV                           | Open-source computer vision and machine learning software library. |
