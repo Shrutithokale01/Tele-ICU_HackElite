@@ -85,5 +85,16 @@ pip install numpy
 5. The detection will start by running the video and the detected frames will be saved in the output folder.
 
 
+| Category        | Tool/Technology                  | Description                                       |
+|:---------------:|:--------------------------------:|:------------------------------------------------:|
+| IDE             | PyCharm, Jupyter Notebook        | Development environments for coding, testing, and debugging. |
+| Libraries       | OpenCV                           | Open-source computer vision and machine learning software library. |
+|                 | MediaPipe                        | Cross-platform framework for building multimodal applied machine learning pipelines. |
+|                 | NumPy                            | Library for adding support for large, multi-dimensional arrays and matrices. |
+|                 | Pygame                           | Set of Python modules designed for writing video games. |
+|                 | Tkinter                          | Standard Python interface to the Tk GUI toolkit. |
+|                 | os                               | Module that provides a way of using operating system-dependent functionality. |
+|                 | Ultralytics, YOLOv8              | State-of-the-art YOLO (You Only Look Once) models. |
+| Tools           | Roboflow                         | Tool for managing datasets, including annotations and pre-processing for computer vision projects. |
 
 
