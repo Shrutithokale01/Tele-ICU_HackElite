@@ -49,7 +49,7 @@ Then we have also included the GUI where the user need to select the saved video
 
 ## PREREQUISITES
 
-(To run '3 model integration + GUI.py') follow the steps given below-
+(To run '3 model integrated + GUI.py') follow the steps given below-
 
 1. Install necessary libraries.
 ```bash
@@ -67,7 +67,7 @@ pip install numpy
 
 ## In Pycharm
 
-1. Clone the code '3 model integration + GUI.py'.
+1. Clone the code '3 model integrated + GUI.py'.
 2. Importing libraries.
 3. Adjust the path of 'best.pt' file provided.
 4. Adjust the path of 'Output folder'.
