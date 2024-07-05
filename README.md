@@ -73,5 +73,5 @@ pip install numpy
 4. Adjust the path of 'Output folder'.
 5. Adjust the path of sound file 'Audio.mp3' provided.
 
-[3 model integrated + GUI.py]()
+[3 model integrated + GUI.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/3%20model%20integrated%20%2B%20GUI.py)
 
