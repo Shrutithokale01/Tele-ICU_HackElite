@@ -65,4 +65,10 @@ pip install numpy
 4. Download Audio file 'Audio.mp3' provided.
 5. Create an Output folder to save detected frames.
 
-   
+## In Pycharm
+
+1. Clone the code '3 model integration + GUI.py'.
+2. Importing libraries.
+3. Adjust the path of 'best.pt' file provided.
+4. Adjust the path of 'Output folder'.
+5. Adjust the path of sound file 'Audio.mp3' provided.
