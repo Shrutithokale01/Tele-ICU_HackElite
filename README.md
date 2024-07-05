@@ -89,14 +89,10 @@ pip install numpy
 
 | video link      | Code for the 3 models            | Description                                       |
 |:---------------:|:--------------------------------:|:------------------------------------------------:|
-| link            | [3 model integrated + GUI.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/3%20model%20integrated%20%2B%20GUI.py).  | Development environments for coding, testing, and debugging. |
-| Libraries       | OpenCV                           | Open-source computer vision and machine learning software library. |
-|                 | MediaPipe                        | Cross-platform framework for building multimodal applied machine learning pipelines. |
-|                 | NumPy                            | Library for adding support for large, multi-dimensional arrays and matrices. |
-|                 | Pygame                           | Set of Python modules designed for writing video games. |
-|                 | Tkinter                          | Standard Python interface to the Tk GUI toolkit. |
-|                 | os                               | Module that provides a way of using operating system-dependent functionality. |
-|                 | Ultralytics, YOLOv8              | State-of-the-art YOLO (You Only Look Once) models. |
-| Tools           | Roboflow                         | Tool for managing datasets, including annotations and pre-processing for computer vision projects. |
+| link            | [object detection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/object%20detection.py).  | This code will only run the object detection model. |
+| link            | [keypointdetection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/keypointdetection%20.py)   | This code will only run the keypointdetection model. |
+| link            | [motion yes or no.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/motion%20yes%20or%20no%20.py)   | This code will only run the Motion detection yes or no model. |
+
+
 
 
