@@ -60,12 +60,12 @@ pip install opencv-python
 pip install pygame
 pip install numpy
 ```
-2.  Download best.pt file provided.
+2.  Download [best.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/best.pt) file provided.
 3. Download high resolution mp4 ICU room videos provided.
-4. Download Audio file 'Audio.mp3' provided.
+4. Download Audio file [Audiofile.mp3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Audiofile.mp3) provided.
 5. Create an Output folder to save detected frames.
 
-## In Pycharm
+## In Pycharm or Jupyter
 
 1. Clone the code [3 model integrated + GUI.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/3%20model%20integrated%20%2B%20GUI.py).
 2. Importing libraries.
@@ -94,5 +94,19 @@ pip install numpy
 | link            | [motion yes or no.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/motion%20yes%20or%20no%20.py)   | This code will only run the Motion detection yes or no model. |
 
 
+## Powerpoint presentation link
+
+
+## CONCLUSION
+
+The Innovative Monitoring System for TeleICU Patients project demonstrates the power of integrating video processing and deep learning techniques to enhance patient care in ICU settings. By developing models for object detection, motion detection, and keypoint detection, we have created a comprehensive system capable of real-time monitoring and analysis. The integration of these models, along with a user-friendly GUI, ensures seamless operation and valuable insights for healthcare providers. This project not only improves patient safety and care but also optimizes the efficiency of medical staff, paving the way for future advancements in teleICU technology.
+
+
+### Members
+
+1. Alfiya Shaikh
+2. Rupsha Sarkar
+3. Shruti Thokale
+4. Vashi Gathole
 
 
