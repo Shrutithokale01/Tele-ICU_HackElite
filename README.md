@@ -110,3 +110,6 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 4. Vashi Gathole
 
 
+## Project Video
+
+You can download and view the project demonstration video [here](D:\intel project\Final project\videos\yes_or_no_recording.mp4).
