@@ -110,14 +110,19 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 4. Vashi Gathole
 
 
-## Project Video
+## Project Videos
 
-Watch the project demonstration video below:
+### Video 1
+Watch the first project demonstration video below:
 
-## Project Video
+[![Video 1](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/yes%20no%20thumbnail.png)](https://www.youtube.com/watch?v=xhHx4TTqLhY)
 
-Watch the project demonstration video below:
+### Video 2
+Watch the second project demonstration video below:
 
-[![Project Video](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/GUI.png)](https://www.youtube.com/watch?v=LK7-_dgAVQE)
+[![Video 2](images/thumbnail2.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
 
+### Video 3
+Watch the third project demonstration video below:
 
+[![Video 3](images/thumbnail3.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
