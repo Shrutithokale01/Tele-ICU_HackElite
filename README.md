@@ -120,9 +120,9 @@ Watch the first project demonstration video below:
 ### Video 2
 Watch the second project demonstration video below:
 
-[![Video 2](images/thumbnail2.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
+[![Video 2](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Object%20thumbnail.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
 
 ### Video 3
 Watch the third project demonstration video below:
 
-[![Video 3](images/thumbnail3.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
+[![Video 3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Keypoint%20thumbnail.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
