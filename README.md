@@ -114,5 +114,10 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 
 Watch the project demonstration video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LK7-_dgAVQE" frameborder="0" allowfullscreen></iframe>
+## Project Video
+
+Watch the project demonstration video below:
+
+[![Project Video](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/GUI.png)](https://www.youtube.com/watch?v=LK7-_dgAVQE)
+
 
