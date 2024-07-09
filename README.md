@@ -96,6 +96,12 @@ pip install numpy
 
 ## Project Videos
 
+
+#### GUI
+This is the GUI of our project
+
+![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/GUI.jpeg)
+
 #### Video 1
 See how the motion detection model identifies patient activity in the ICU:
 
