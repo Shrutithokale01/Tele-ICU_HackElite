@@ -94,7 +94,26 @@ pip install numpy
 | link            | [motion yes or no.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/motion%20yes%20or%20no%20.py)   | This code will only run the Motion detection yes or no model. |
 
 
+## Project Videos
+
+#### Video 1
+See how the motion detection model identifies patient activity in the ICU:
+
+[![Video 1](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/yes%20no%20thumbnail.png)](https://www.youtube.com/watch?v=xhHx4TTqLhY)
+
+#### Video 2
+Watch the video demonstration of our object detection model in the ICU room:
+
+[![Video 2](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Object%20thumbnail.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
+
+#### Video 3
+Explore the keypoint detection and alerting model in action:
+
+[![Video 3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Keypoint%20thumbnail.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
+
 ### Powerpoint presentation link
+
+You can view the project presentation [intel.pptx](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/intel.pptx).
 
 
 ## CONCLUSION
@@ -108,21 +127,3 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 2. Rupsha Sarkar
 3. Shruti Thokale
 4. Vashi Gathole
-
-
-## Project Videos
-
-### Video 1
-Watch the first project demonstration video below:
-
-[![Video 1](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/yes%20no%20thumbnail.png)](https://www.youtube.com/watch?v=xhHx4TTqLhY)
-
-### Video 2
-Watch the second project demonstration video below:
-
-[![Video 2](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Object%20thumbnail.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
-
-### Video 3
-Watch the third project demonstration video below:
-
-[![Video 3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Keypoint%20thumbnail.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
