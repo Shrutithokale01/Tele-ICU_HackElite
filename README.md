@@ -103,19 +103,25 @@ This is the GUI of our project
 ![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/GUI.jpeg)
 
 #### Video 1
-See how the motion detection model identifies patient activity in the ICU:
+Look how the object detection, motion detection and keypoint analysis works together along with sound alert "motion detected", when the Patient moves:
 
 [![Video 1](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/yes%20no%20thumbnail.png)](https://www.youtube.com/watch?v=xhHx4TTqLhY)
 
-#### Video 2
-Watch the video demonstration of our object detection model in the ICU room:
 
-[![Video 2](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Object%20thumbnail.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
+#### Video 2
+See how the motion detection model identifies patient activity in the ICU:
+
+[![Video 2](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/yes%20no%20thumbnail.png)](https://www.youtube.com/watch?v=xhHx4TTqLhY)
 
 #### Video 3
+Watch the video demonstration of our object detection model in the ICU room:
+
+[![Video 3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Object%20thumbnail.png)](https://www.youtube.com/watch?v=iSS_8ZF7QJM)
+
+#### Video 4
 Explore the keypoint detection and alerting model in action:
 
-[![Video 3](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Keypoint%20thumbnail.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
+[![Video 4](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Keypoint%20thumbnail.png)](https://www.youtube.com/watch?v=HB3K9wKym50)
 
 ### Powerpoint presentation link
 
