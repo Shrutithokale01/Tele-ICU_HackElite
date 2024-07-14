@@ -87,11 +87,11 @@ pip install numpy
 ## Individual  working of 3 models 🧩-
 
 
-| video link      | Code for the 3 models            | Description                                       |
-|:---------------:|:--------------------------------:|:------------------------------------------------:|
-| link            | [object detection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/object%20detection.py).  | This code will only run the object detection model. |
-| link            | [keypointdetection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/keypointdetection%20.py)   | This code will only run the keypointdetection model. |
-| link            | [motion yes or no.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/motion%20yes%20or%20no%20.py)   | This code will only run the Motion detection yes or no model. |
+| Code for the 3 models            | Description                                       |
+|:--------------------------------:|:------------------------------------------------:|
+| [object detection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/object%20detection.py).  | This code will only run the object detection model. |
+| [keypointdetection.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/keypointdetection%20.py)   | This code will only run the keypointdetection model. |
+| [motion yes or no.py](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/motion%20yes%20or%20no%20.py)   | This code will only run the Motion detection yes or no model. |
 
 
 ## Project Videos 🎥-
