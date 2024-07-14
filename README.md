@@ -102,6 +102,8 @@ This is the GUI of our project
 
 ![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/GUI.jpeg)
 
+We have also Provided the video that can be used to test our model  [3 model integrated GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/intel.pptx).
+
 #### Video 1
 Look how the object detection, motion detection and keypoint analysis works together along with sound alert "motion detected", when the Patient moves:
 
