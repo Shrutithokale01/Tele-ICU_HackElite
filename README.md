@@ -186,3 +186,8 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 2. Rupsha Sarkar [rupshasarkar73@gmail.com](mailto:rupshasarkar73@gmail.com)
 3. Shruti Thokale [shrutithokale3@gmail.com](mailto:shrutithokale3@gmail.com)
 4. Vashi Gathole
+
+## LICENSE 🪪
+
+This Project is licensed under the MIT license
+-You can view the [LICENSE](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/LICENSE) file for more details.
