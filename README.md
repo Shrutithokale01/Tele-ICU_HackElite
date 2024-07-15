@@ -49,7 +49,6 @@ So, the video has approximately 30.76 frames per second.
 - Accuracy - 80 % to 90 %
 
 
-
 ## Tools and Technologies 🛠️ :
 
 
@@ -114,6 +113,11 @@ pip install numpy
 3. Select the video path using the upload button.
 4. Select the Output folder to save the detected frames using the process button.
 5. The detection will start by running the video and the detected frames will be saved in the output folder.
+
+## The Working of Our Project 🔖-
+
+[![Video 1](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/Main%20video.png)](https://www.youtube.com/watch?v=PV-yJ7rbnwU)
+
 
 ## Individual  working of 3 models 🧩-
 
