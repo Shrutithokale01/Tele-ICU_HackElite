@@ -52,6 +52,16 @@ So, the video has approximately 30.76 frames per second.
 ## Tools and Technologies 🛠️ :
 
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-green?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-blue?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-lightgrey?style=for-the-badge)
+![Pygame](https://img.shields.io/badge/Pygame-purple?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-lightblue?style=for-the-badge)
+
 - Object Detection Models: YOLOv8
 - Development environment (IDE): Pycharm, Jupyter
 - Motion Recognition/ tracking: mediapipe
@@ -172,7 +182,7 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 
 ### Members
 
-1. Alfiya Shaikh
-2. Rupsha Sarkar
-3. Shruti Thokale
+1. Alfiya Shaikh alfiyashaikhm11@gmail.com
+2. Rupsha Sarkar rupshasarkar73@gmail.com
+3. Shruti Thokale shrutithokale3@gmail.com
 4. Vashi Gathole
