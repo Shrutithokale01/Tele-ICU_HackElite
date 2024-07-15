@@ -29,6 +29,26 @@ The primary objective of this project is to develop a robust and accurate monito
 
 4. User-friendly GUI 🖥️:  Intuitive interface for video selection, processing, and viewing detected frames.
 
+#### Calculation -> 
+
+##### Frames per Second, inference & Accuracy :
+
+Total number of frames are 723 of the video of 24 seconds then how many frames per second ?
+
+- fps=video length in seconds total frames​
+Given:
+Total frames = 1538
+Video length = 50 seconds
+Let's do the calculation:
+fps=1538 / 50 ≈ 30.76
+
+So, the video has approximately 30.76 frames per second.
+
+- Inference - 839.6 ms ----- 0.8396 seconds 
+
+- Accuracy - 80 % to 90 %
+
+
 
 ## Tools and Technologies 🛠️ :
 
