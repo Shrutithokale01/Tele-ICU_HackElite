@@ -44,7 +44,7 @@ fps=1538 / 50 ≈ 30.76
 
 So, the video has approximately 30.76 frames per second.
 
-- Current Inference Time: 0.0396 seconds per frame
+- Current Inference Time: 0.546 ms per frame
   
 - Accuracy - 80 % to 90 %
 
