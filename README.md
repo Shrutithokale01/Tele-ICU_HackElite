@@ -182,7 +182,7 @@ The Innovative Monitoring System for TeleICU Patients project demonstrates the p
 
 ### Members
 
-1. Alfiya Shaikh alfiyashaikhm11@gmail.com
-2. Rupsha Sarkar rupshasarkar73@gmail.com
-3. Shruti Thokale shrutithokale3@gmail.com
+1. Alfiya Shaikh [alfiyashaikhm11@gmail.com](mailto:alfiyashaikhm11@gmail.com)
+2. Rupsha Sarkar [rupshasarkar73@gmail.com](mailto:rupshasarkar73@gmail.com)
+3. Shruti Thokale [shrutithokale3@gmail.com](mailto:shrutithokale3@gmail.com)
 4. Vashi Gathole
