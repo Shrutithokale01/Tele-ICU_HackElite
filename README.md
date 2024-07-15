@@ -3,11 +3,11 @@
 ### INTRODUCTION 🏥- 
 
 - TeleICU is concept for monitoring ICU patients from remote locations to reduce the burden of on-site intensivist.
-- The proposed solution should work to reduce the burden of remote health care professional so, one remote health care professional can monitor 5 or more patients at single time.
+- The proposed solution should work to reduce the burden of remote health care professional so, one remote health care professional can monitor 5 or more patients at a single time.
 
 ### OBJECTIVES 🎯– 
 
-The primary objective of this project is to develop a robust and accurate monitoring system for TeleICU settings, focusing on two key aspects:
+The primary objective of this project is to develop a robust and accurate monitoring system for TeleICU, focusing on two key aspects:
 
 - Object Detection: Train a deep learning model to accurately identify various individuals present in the ICU room, including Nurses, Doctors and Patients. This will help in ensuring proper care and monitoring of patient interactions.
 - Patient Motion Recognition: Develop a deep learning model to recognize and categorize different activities of the patient when they are alone. This includes monitoring for signs of distress, abnormal movements, and other critical activities that require immediate attention.
@@ -33,7 +33,7 @@ The primary objective of this project is to develop a robust and accurate monito
 
 ##### Frames per Second, inference & Accuracy :
 
-Total number of frames are 723 of the video of 24 seconds then how many frames per second ?
+Total number of frames are 1538 for a video of 50 seconds 
 
 - fps=video length in seconds total frames​
 Given:
@@ -44,8 +44,8 @@ fps=1538 / 50 ≈ 30.76
 
 So, the video has approximately 30.76 frames per second.
 
-- Inference - 839.6 ms ----- 0.8396 seconds 
-
+- Current Inference Time: 0.0396 seconds per frame
+  
 - Accuracy - 80 % to 90 %
 
 
@@ -80,7 +80,7 @@ Now we have used three different deep learning and video processing techniques a
 
 	     Object Detection Model
 
-	     Motion detecttion(yes or no) model
+	     Motion detecttion(yes or no) model (sound alert)
 
 	     Keypoint detection + alerting model
 
@@ -147,7 +147,7 @@ This is the GUI of our project
 
 ![GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/Thumbnail/GUI.jpeg)
 
-We have also Provided the video that can be used to test our model  [3 model integrated GUI](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/intel.pptx).
+We have also Provided the video that can be used to test our model  [3 model integrated GUI(1).mp4](https://github.com/Shrutithokale01/Tele-ICU_HackElite/blob/main/intel.pptx).
 
 #### Video 1
 Look how the object detection, motion detection and keypoint analysis works together along with sound alert "motion detected", when the Patient moves:
