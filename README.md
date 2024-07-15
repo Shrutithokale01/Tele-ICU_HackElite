@@ -18,6 +18,17 @@ The primary objective of this project is to develop a robust and accurate monito
 - Assist healthcare providers in timely intervention and decision-making.
 - Improve the overall efficiency and effectiveness of ICU operations.
 
+### Key features 🔐-
+
+1. Real-time Object and Motion Detection 🕵️‍♀️:   Identifies individuals (doctors, nurses, patients) and recognizes patient activities using integrated deep learning models.
+
+
+2. Patient Motion Recognition 🤖:  Recognizes and categorizes different patient activities when they are alone or with others presence, including signs of distress and abnormal movements, using mediapipe. (Detected Motion - Eyes, mouth, head & hands)
+
+3. Automated Alerts 🚨:  Triggers sound alerts for immediate intervention when patient motion is detected. (exception : when there is any movement in the bounding box of patient, motion will be detected and alert will be generated)
+
+4. User-friendly GUI 🖥️:  Intuitive interface for video selection, processing, and viewing detected frames.
+
 
 ## Tools and Technologies 🛠️ :
 
