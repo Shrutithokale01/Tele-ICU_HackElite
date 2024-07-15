@@ -1,5 +1,4 @@
-#voice integration gui  01/07/2024
-#PG 24%
+#voice integration gui  
 #importing necessary libraries
 import cv2
 import mediapipe as mp
